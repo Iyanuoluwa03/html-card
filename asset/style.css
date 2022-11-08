@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&display=swap");
+
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Inter", sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  background-color: #555;
+  border-radius: 15px;
+
+  width: 50%;
+  height: 100%;
+  padding-left: 10%;
+}
+
+p {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+h4 {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.dollars {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.side_note {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.dollar2 {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+button {
+  border-radius: 15px;
+  padding: 16px 50px;
+  text-decoration: none;
+  border: none;
+}
+
+h6 {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.third_container span {
+  font-size: 14px;
+  font-weight: 600;
+  padding-left: 1rem;
+}
+
+.container .bx {
+  font-size: 18px;
+}
+li {
+  list-style: none;
+}
